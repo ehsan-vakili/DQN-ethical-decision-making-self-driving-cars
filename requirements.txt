@@ -1,0 +1,8 @@
+tensorflow==2.15.0
+tensorflow-estimator==2.15.0
+keras==2.15.0
+tensorboard==2.15.0
+gymnasium==0.29.1
+pandas==2.1.4
+numpy==1.25.0
+transforms3d==0.4.1
